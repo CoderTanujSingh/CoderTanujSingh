@@ -18,23 +18,30 @@ ________________________________________
 
 •	📘 Continuously learning — DAX, ML basics, automation, ETL
 ________________________________________
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-Data & Databases
+### 💾 Data & Databases
+- 🐬 **MySQL**  
+  
 
+### 📊 Analytics & BI Tools
+- 📈 **Power BI** (Data Modeling, DAX, Dashboards)  
+- 📗 **Microsoft Excel** (Pivot Tables, Dashboards, Formulas)  
+- 📄 **Google Sheets** (Reporting, Collaboration)  
 
-Analytics & BI Tools
+### 🐍 Programming & ML
+- 🐍 **Python**  
+- 🔢 **NumPy**  
+- 🧹 **Pandas** (Cleaning & Transformation)  
+- 📉 **Matplotlib**  
+- 🌊 **Seaborn**  
+- 🤖 **Scikit-learn** (Basic ML workflows)
 
-
-
-Programming & ML
-
-
-
-
-
-Other Tools
-
+### 🔧 Other Tools
+- 🧰 **Git & GitHub**  
+- 🎨 **Adobe Photoshop / Illustrator** (for visuals & dashboards aesthetics)  
+- 🧭 **Jupyter Notebook / VS Code**  
+- 🗂️ **Power Query / ETL basics**
 
 
 ________________________________________
