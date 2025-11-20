@@ -68,7 +68,8 @@ Scaling · Regression · EDA · Visualizations
 ________________________________________
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanujSingh&theme=tokyonight" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TanujSingh&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanujSingh&layout=compact&theme=tokyonight" height="170"/> </p> 
-(Replace your GitHub username if different.)
+
+
 ________________________________________
 🌐 Connect With Me
 
