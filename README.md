@@ -78,9 +78,9 @@ ________________________________________
 ________________________________________
 🌐 Connect With Me
 
-https://github.com/tanujsingh53
+https://github.com/CoderTanujSingh
 
-https://www.linkedin.com/in/tanuj-singh-101703a1/
+[https://www.linkedin.com/in/tanuj-singh-101703a1/](https://www.linkedin.com/in/tanuj-singh-visuals/)
 
 ________________________________________
 🙋‍♂️ A Little More About Me
