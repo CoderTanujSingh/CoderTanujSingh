@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=ff0000" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CoderTanujSingh&color=ff0000" alt="Profile views"/>
+  <!-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 </p>
 
 👋 **Hi, I'm Tanuj Singh**
