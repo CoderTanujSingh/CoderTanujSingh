@@ -54,16 +54,16 @@ ________________________________________
 ________________________________________
 📊 Featured Projects
 
-🔹 Power BI – Ride Cancellation Dashboard
+🔹 UPI-Intelligence
 
-KPI insights · Trend analysis · Time-based patterns
+Customer Behaviour Analysis · Banking & Merchant Analysis · Fraud-Detection & Risk Monitoring · Time Intelligence
 
-🔗 Repo coming soon
+🔗 https://github.com/CoderTanujSingh/UPI-Intelligence
 
 
-🔹 Cryptocurrency Volatility Prediction
+🔹 HR Analytics Dashboard | Power BI Project
 
-Revenue insights · Top products · Customer trends
+Attrition Insights · Workforce & Compensation Analysis · Employee Risk & Retention Insights
 
 🔗 https://github.com/tanujsingh53/-Cryptocurrency-Volatility-Prediction
 
